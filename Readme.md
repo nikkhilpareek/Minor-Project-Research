@@ -1,4 +1,6 @@
-# Notes from all Research Papers
+# Title: Decentralized Carbon Markets: Blockchain-Enabled Carbon Credit Exchange
 
-write all important notes from research papers here, also cite the source of the note.
-notes for indicidual research paper need to be written in the specified readme file in their folder.
+### Abstract:
+With the increasing digitalization of industries, data centers alone contribute nearly 1% of global energy-related greenhouse gas emissions, while ICT (Information and Communication Technology) as a whole accounts for approximately 2-4% of global CO₂ emissions.<br> The rise of blockchain technology, despite its potential, has raised concerns about high energy consumption, particularly in Proof-of-Work (PoW) based networks. To address this, we propose a blockchain-enabled, energy-efficient auctioning platform for carbon credit exchange, aligning with green computing principles to minimize its carbon footprint. The platform utilizes a Proof-of-Stake (PoS) consensus mechanism, reducing energy consumption by over 99% compared to PoW, while leveraging smart contracts and decentralized ledger technology (DLT) to ensure transparent and secure transactions.<br> This system enables real-time bidding, immutable transaction records, and automated compliance verification, fostering an efficient and low-energy carbon trading ecosystem. With the carbon credit market projected to exceed $2.4 trillion by 2027, integrating green computing principles in blockchain-based trading can significantly enhance sustainability, market accessibility, and environmental impact.<br> This research explores the technical framework, energy efficiency strategies, and economic viability of implementing low-carbon blockchain solutions for carbon markets, emphasizing their role in sustainable digital transformation and global emissions reduction.
+
+### Notes:
