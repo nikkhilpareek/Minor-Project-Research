@@ -118,6 +118,8 @@ The global carbon market has experienced significant expansion since its incepti
 
 - **Fraudulent Activities**: The system suffers from integrity issues including recycling of certified emission reductions (CERs) and issuance of non-additional offset credits after transactions. These officially assigned credits lose their ability to provide additional emission reduction, rendering them redundant.
 
+![Alt text](images/ExistingETS.png)
+
 ## Overview of Blockchain Technology
 
 Blockchain technology represents a revolutionary approach to data management and transaction processing that offers significant advantages for carbon trading systems.
@@ -169,3 +171,81 @@ Blockchain technology represents a revolutionary approach to data management and
 - **Proof of Capacity (PoC)**: Utilizes available storage capacity of a disk, allowing entities to compile comprehensive lists of possible block hashes beforehand, reducing computational time.
 
 - **Proof of Importance (PoI)**: Evaluates block significance based on transaction quality and the entity's reputation within the network before adding blocks to the blockchain.
+
+## Benefits of Blockchain Integration in Carbon Trading
+
+- **Market Transparency**: Blockchain technology significantly enhances the transparency and traceability of transactions and actions within the carbon market. By integrating blockchain into carbon trading markets, the market gains an immutable and auditable ledger, influencing the behavior of market participants and improving the accountability of records accessible to all participants.
+
+- **Trustworthiness**: The blockchain-powered emissions trading system enhances trust among market participants. It assures them that the system is less susceptible to human manipulation and transactions are not dependent on any centralized authority.
+
+- **Liquidity of the Carbon Market**: The liquidity of the carbon market is facilitated by blockchain technology, simplifying the processes of buying and selling carbon quotas and converting them into cash. This is achieved because blockchain enables small and medium-sized emitting entities to trade independently of larger entities, leading to a highly liquidized trading system that operates without the risk of manipulation by 'big players' through centralization.
+
+- **Reduced Administrative Costs**: Integrating blockchain into carbon trading offers a substantial advantage in terms of reduced administrative costs. The system operates automatically and utilizes smart contracts, ensuring decentralization, distribution, and automation.
+
+- **Enhanced Accountability**: Blockchain's immutable nature ensures robust accountability in the carbon trading market, preventing double counting of emissions quotas.
+
+- **Enhanced Security**: Powering carbon markets with blockchain technology significantly enhances the security of the market. The encryption mechanisms employed in blockchain-powered carbon markets are based on advanced cryptographic techniques, ensuring that data remains highly secure and resistant to unauthorized alterations. Moreover, transacting in a blockchain-driven carbon trading market necessitates verification and authorization through digital signatures, effectively preventing unauthorized parties from initiating or validating information.
+
+## Challenges of Blockchain Integration in Carbon Trading
+
+### Regulatory Framework Limitations
+- Different blockchains employ diverse consensus mechanisms, significantly impacting operational efficiency
+- No standardization of rules or regulations across national, regional, continental, and global levels
+- Lack of consensus on appropriate mechanisms to be employed
+- Need for protocols to ensure data encryption, anonymization, and access control
+
+### Privacy Concerns
+- Stakeholder hesitation due to blockchain's decentralized, immutable, and publicly accessible nature
+- Potential deterrent to market participation
+- **Possible solutions**:
+    - Adopting consortium blockchain networks or hybrids of private and public blockchains
+    - Implementing privacy-enhancing technologies like Zero-Knowledge Proofs (ZKPs)
+
+### Scalability Issues
+- Existing blockchain networks struggle with scalability, latency, and throughput
+- Challenges with handling continuous data from IoT sensor devices
+- Example: Hyperledger Fabric can handle only 150 transactions per second with minimal latency
+- **Potential solutions**:
+    - Layer-2 scaling solutions like rollups and sidechains
+    - Network partitioning into smaller, parallel chains (shards)
+    - IoT-specific blockchain networks like IOTA powered by Directed Acyclic Graphs (DAGs)
+
+## The Blockchain-Based Carbon Trading Process
+
+![Carbon Trading Process Flow](images/TypicalTradingProcess.png)
+
+### How the Trading System Works
+
+The diagram above illustrates the typical trading process in a blockchain-based carbon trading system, which operates through the following sequence:
+
+1. **Initial Offer Collection**
+    - Buyers begin by collecting available offers from Sellers
+    - Access to offers is determined by the Buyer's reputation and system usage history
+
+2. **Reputation Verification**
+    - The system authenticates the Buyer's reputation
+    - Verification grants appropriate level of access to the marketplace
+
+3. **Offer Prioritization**
+    - Available offers are automatically sorted according to their Priority Values (PVs)
+    - Higher-ranked offers appear first in the Buyer's selection list
+
+4. **Selection Process**
+    - Buyers select top-ranked offers first
+    - If initial offers don't fulfill requirements, Buyers proceed to subsequent offers
+    - Process continues until requirements are met or list is exhausted
+
+5. **Alternative Actions**
+    - When no satisfactory offers exist, Buyers can:
+      - Wait for new offers to appear
+      - Publish their own bid to the marketplace
+
+6. **Binding Agreements**
+    - **Important**: All published offers and bids are legally binding
+    - Once selected by the counterparty, the initiator cannot withdraw
+
+7. **Market Mechanics**
+    - The system operates on a protocol combining:
+      - Market segmentation (price-based)
+      - Priority value ordering
+    - These factors determine the final position of bids visible to all parties
