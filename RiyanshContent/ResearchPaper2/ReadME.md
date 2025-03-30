@@ -1,5 +1,7 @@
 # AugmentationOfBlockchainAnd5GInGreenComputing:
 ![Alt text](images/TransactionStructure.png)
+![Alt text](images/LayersOfGreenComputing.png)
+
 * Green Computing focuses on using energy efficiently to perform tasks in the most environmentally friendly way. As energy costs increase and environmental concerns grow, green computing is gaining more attention. Blockchain is becoming popular for its decentralized, peer-to-peer, transparent ledger systems.
 
 * Green Computing, a powerful field, enables computing devices to consume up to 150-200% less energy compared to traditional computing systems. It involves designing, manufacturing, using, and disposing of computing devices in a manner that minimizes their harmful environmental impact. Green Computing focuses on optimizing energy usage to perform operations as efficiently as possible.
