@@ -110,3 +110,14 @@ The global carbon market has experienced significant expansion since its incepti
 - **Economic Impact**: 
     - Reduced market liquidity
     - Inappropriate price fixing mechanisms
+
+
+### Disadvantages of Existing Systems
+
+- **Exclusion of Small Emitters**: The current carbon market design doesn't accommodate smaller emitters, as it's predominantly dominated by large entities. This exclusivity creates operational ambiguity, restricting participation and hindering competition and innovation among local initiatives.
+
+ - **Manual Reporting Flaws**: Reliance on manual emissions reporting introduces human error risks, potentially leading to inaccurate emission records. The absence of automated systems prevents real-time assessment of net-zero carbon targets and creates opportunities for data manipulation that compromises credibility.
+
+- **Economic Burden Transfer**: Carbon taxes or quota purchase requirements increase production costs for emitting entities. Manufacturers must account for these added expenses alongside existing costs, typically passing the financial burden to end consumers through inflated product prices.
+
+- **Fraudulent Activities**: The system suffers from integrity issues including recycling of certified emission reductions (CERs) and issuance of non-additional offset credits after transactions. These officially assigned credits lose their ability to provide additional emission reduction, rendering them redundant.
