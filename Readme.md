@@ -1,6 +1,23 @@
 # Title: Decentralized Carbon Markets: Blockchain-Enabled Carbon Credit Exchange
 
 ### Abstract:
-With the increasing digitalization of industries, data centers alone contribute nearly 1% of global energy-related greenhouse gas emissions, while ICT (Information and Communication Technology) as a whole accounts for approximately 2-4% of global CO₂ emissions.<br> The rise of blockchain technology, despite its potential, has raised concerns about high energy consumption, particularly in Proof-of-Work (PoW) based networks. To address this, we propose a blockchain-enabled, energy-efficient auctioning platform for carbon credit exchange, aligning with green computing principles to minimize its carbon footprint. The platform utilizes a Proof-of-Stake (PoS) consensus mechanism, reducing energy consumption by over 99% compared to PoW, while leveraging smart contracts and decentralized ledger technology (DLT) to ensure transparent and secure transactions.<br> This system enables real-time bidding, immutable transaction records, and automated compliance verification, fostering an efficient and low-energy carbon trading ecosystem. With the carbon credit market projected to exceed $2.4 trillion by 2027, integrating green computing principles in blockchain-based trading can significantly enhance sustainability, market accessibility, and environmental impact.<br> This research explores the technical framework, energy efficiency strategies, and economic viability of implementing low-carbon blockchain solutions for carbon markets, emphasizing their role in sustainable digital transformation and global emissions reduction.
+The current offline carbon credit trading market
+suffers from inefficiencies, lack of transparency, and limited ac-
+cessibility, hindering its effectiveness in promoting sustainabil-
+ity. Blockchain technology presents a promising solution that
+enables secure, transparent, and decentralized trading. How-
+ever, traditional blockchain models, particularly those based
+on proof-of-work (PoW), are computationally intensive and
+environmentally costly. This research explores a blockchain-
+based framework for carbon credit trading that balances trans-
+parency, efficiency, and sustainability. We investigate energy-
+efficient consensus mechanisms such as proof-of-stake (PoS)
+and layer-2 scaling solutions to reduce the environmental
+footprint while maintaining security and trust. In addition,
+we examine the integration of carbon neutral and renewable
+energy-powered blockchain networks. Our proposed model
+aims to improve the credibility and accessibility of carbon credit
+markets while ensuring that the underlying technology aligns
+with global environmental goals
 
 ### Notes:
